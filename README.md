@@ -1,9 +1,7 @@
 ---
-
 # 🧾 Journal Entry App
 
 A simple web application built with **Ruby on Rails (API)** and **React (Frontend)** to generate **monthly journal entries** for accounting based on CSV order data.
-
 ---
 
 ## **📌 Features**
@@ -62,7 +60,7 @@ Your API will be running at **`http://localhost:3000`** 🎉
 ### **6️⃣ Move to the Frontend Folder**
 
 ```sh
-cd frontend
+cd front-end
 ```
 
 ### **7️⃣ Install Dependencies**
