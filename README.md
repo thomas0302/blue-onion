@@ -1,8 +1,6 @@
 ---
 
-### **📄 README.md**
-```md
-# 🧾 Blue Onion Labs - Journal Entry App
+# 🧾 Journal Entry App
 
 A simple web application built with **Ruby on Rails (API)** and **React (Frontend)** to generate **monthly journal entries** for accounting based on CSV order data.
 
